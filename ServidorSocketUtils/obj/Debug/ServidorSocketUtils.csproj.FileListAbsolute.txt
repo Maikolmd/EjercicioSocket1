@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
+G:\INACAP2019\Programacion Avanzada\EjercicioSocket1\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+G:\INACAP2019\Programacion Avanzada\EjercicioSocket1\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+G:\INACAP2019\Programacion Avanzada\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+G:\INACAP2019\Programacion Avanzada\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
+G:\INACAP2019\Programacion Avanzada\EjercicioSocket1\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csprojResolveAssemblyReference.cache

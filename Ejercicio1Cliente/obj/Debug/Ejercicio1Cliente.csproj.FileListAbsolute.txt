@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe.config
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.exe
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\bin\Debug\Ejercicio1Cliente.pdb
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\bin\Debug\ClienteSocketUtils.dll
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\bin\Debug\ClienteSocketUtils.pdb
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.exe
+\\mac\home\documents\visual studio 2015\Projects\EjercicioSocket1\Ejercicio1Cliente\obj\Debug\Ejercicio1Cliente.pdb
